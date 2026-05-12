@@ -1,6 +1,6 @@
 body, html{
-    height: 100%
-    background-color:aquamarine
+    height: 100%;
+    background-color: aquamarine;
 }
 
 .color1{
@@ -8,7 +8,7 @@ body, html{
 }
 
 .color2{
-    background-color:indigo
+    background-color:indigo;
 }
 
 .color3{
